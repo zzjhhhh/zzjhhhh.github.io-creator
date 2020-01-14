@@ -1,0 +1,4 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-Hans"
+title = "健健的博客"
+theme = "ananke"
