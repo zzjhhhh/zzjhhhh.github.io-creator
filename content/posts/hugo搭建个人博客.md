@@ -4,20 +4,20 @@ date: 2020-01-14T14:05:25Z
 draft: false
 ---
 
-第一步：安装hugo
+### 第一步：安装hugo
 ```
     brew install hugo
     hugo version
 ``` 
 &nbsp;
 
-第二步：创建新站点
+### 第二步：创建新站点
 ```
     hugo new site username@github.io
 ```
 &nbsp;
 
-第三步：添加主题
+### 第三步：添加主题
 * 下载主题并添加到theme文件夹
 ```
     cd username@github.io
